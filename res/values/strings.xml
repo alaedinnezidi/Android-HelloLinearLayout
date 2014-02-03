@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloLinearLayout</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rouge">rouge</string>
+    <string name="vert">vert</string>
+    <string name="bleu">bleu</string>
+    <string name="jaune">jaune</string>
+    <string name="ligne1">ligne1</string>
+    <string name="ligne2">ligne2</string>
+    <string name="ligne3">ligne3</string>
+    <string name="ligne4">ligne4</string>
+
+</resources>
